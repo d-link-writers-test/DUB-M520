@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <table style="width: -47px;">
+            <col style="width: 350px;" />
+            <col style="width: 20px;" />
+            <col style="width: 350px;" />
+            <tbody>
+                <tr style="height: 20px;">
+                    <td class="SpecsHeaders">No Software Required</td>
+                    <td>&#160;</td>
+                    <td rowspan="2">
+                        <img src="../Images/Image 866.png" style="width: 342px;height: 228px;" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>&#160;</p>
+                        <ul>
+                            <li>Simply plug-and-play</li>
+                            <li>No additional hardware or software installation required</li>
+                            <li>but is it really that easy to install</li>
+                        </ul>
+                    </td>
+                    <td>&#160;</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&#160;</p>
+    </body>
+</html>

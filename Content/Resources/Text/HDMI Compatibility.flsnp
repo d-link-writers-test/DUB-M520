@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <table style="width: 100%;">
+            <col style="width: 350px;" />
+            <col style="width: 20px;" />
+            <col style="width: 329px;" />
+            <tbody>
+                <tr>
+                    <td class="SpecsHeaders">HDMI&#160;Compatibility</td>
+                    <td rowspan="2">&#160;</td>
+                    <td rowspan="2">
+                        <img src="../Images/Image 869.png" style="width: 320px;height: 214px;" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>&#160;</p>
+                        <ul>
+                            <li>Ultra HD video resolution up to 4K @ 30 Hz</li>
+                            <li>Supports HDMI 1.4 and DisplayPort Alternate Mode over USB-C</li>
+                            <li>HDCP 2.2 compatible</li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&#160;</p>
+    </body>
+</html>

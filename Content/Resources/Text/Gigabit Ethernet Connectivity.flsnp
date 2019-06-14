@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <table style="width: 100%;">
+            <col style="width: 350px;" />
+            <col style="width: 20px;" />
+            <col style="width: 329px;" />
+            <tbody>
+                <tr style="height: 10px;">
+                    <td class="SpecsHeaders">Gigabit Ethernet Connectivity</td>
+                    <td rowspan="2">&#160;</td>
+                    <td rowspan="2">
+                        <img src="../Images/Image 867.png" style="width: 318px;height: 205px;" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>&#160;</p>
+                        <ul>
+                            <li>Achieve transfer speeds of up to 1 Gbps</li>
+                            <li>Status LEDs for connection status and data transfer speed</li>
+                            <li>Auto 10/100/1000 Mbps speed detection with auto-negotiation to always use the highest available speed</li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&#160;</p>
+    </body>
+</html>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <table style="width: 100%;">
+            <col style="width: 350px;" />
+            <col style="width: 20px;" />
+            <col style="width: 329px;" />
+            <tbody>
+                <tr>
+                    <td class="SpecsHeaders">USB-C and Thunderbolt™3 Support</td>
+                    <td rowspan="2">&#160;</td>
+                    <td rowspan="2">
+                        <img src="../Images/Image 868.png" style="width: 321px;height: 212px;" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>&#160;</p>
+                        <ul>
+                            <li>USB-C is a user-friendly reversible connector that allows connection to your device in any direction.</li>
+                            <li>Two USB 3.0 SuperSpeed 5 Gbps ports</li>
+                            <li>Backwards compatible with USB 2.0 and USB 1.1 devices</li>
+                            <li>Charge your devices through the USB-C port of the device.</li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&#160;</p>
+    </body>
+</html>

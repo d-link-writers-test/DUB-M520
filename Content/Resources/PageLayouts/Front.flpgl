@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Normal" Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in">
+        <Frame X="-96px" Y="500px" Width="816px" Height="265px" Flow="decoration0" Right="-96px" Bottom="99px" BackgroundType="Solid" BackgroundColor="#5ca8d8" Anchors="" />
+        <Frame X="-76px" Y="-65px" Width="211px" Height="65px" Flow="decoration1" Right="489px" Bottom="864px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>
+                            <xhtml:img xhtml:src="../Images/dlink_logo_build_black.eps" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xhtml:style="width: 207px;height: 61px;" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="0px" Y="41px" Width="624px" Height="423px" Flow="decoration2" Right="0px" Bottom="400px" BackgroundRepeat="no-repeat" BackgroundPositionX="center" BackgroundPositionY="center" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>
+                            <xhtml:img xhtml:src="../Images/DUB-M520_A1_Image H(Side_GB).tif" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xhtml:style="width: 657px;height: 332px;vertical-align: middle;mc-float: frame-center;" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="0px" Y="789px" Width="622px" Height="130px" Flow="body" Right="2px" Bottom="-55px" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>&#160;</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="0px" Y="554px" Width="624px" Height="154px" Flow="header" Right="0px" Bottom="156px" VerticalAlign="middle" TextAlign="left" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:h1><MadCap:variable xhtml:name="Variables.ModelName" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:h1>
+                        <xhtml:h2><xhtml:span xhtml:style="color: #333333; font-weight: bold;">|</xhtml:span> <MadCap:variable xhtml:name="Variables.ModelNumber" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></xhtml:h2>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

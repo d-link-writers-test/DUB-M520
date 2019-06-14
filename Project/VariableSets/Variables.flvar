@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="ModelName"
+    EvaluatedDefinition="5-in-1 USB-C Hub with HDMI/Ethernet and Power Delivery">5-in-1 USB-C Hub with HDMI/Ethernet and Power Delivery</Variable>
+  <Variable
+    Comment=""
+    Name="ModelNumber"
+    EvaluatedDefinition="DUB-M520">DUB-M520</Variable>
+  <Variable
+    Name="USB 3.0"
+    Comment=""
+    EvaluatedDefinition="USB 3.0 Type-A (female) Ports">USB 3.0 Type-A (female) Ports</Variable>
+  <Variable
+    Name="Ethernet"
+    Comment=""
+    EvaluatedDefinition="RJ-45 Ethernet Port (10/100/1000 Mbps)">RJ-45 Ethernet Port (10/100/1000 Mbps)</Variable>
+  <Variable
+    Name="CE"
+    Comment=""
+    EvaluatedDefinition="CE">CE</Variable>
+  <Variable
+    Name="FCC"
+    Comment=""
+    EvaluatedDefinition="FCC">FCC</Variable>
+  <Variable
+    Name="IC"
+    Comment=""
+    EvaluatedDefinition="IC">IC</Variable>
+  <Variable
+    Name="RCM"
+    Comment=""
+    EvaluatedDefinition="RCM">RCM</Variable>
+  <Variable
+    Name="Microsoft&#xD;&#xA;Windows® OS"
+    Comment=""
+    EvaluatedDefinition="Microsoft&#xD;&#xA;Windows® OS">Microsoft
+Windows® OS</Variable>
+  <Variable
+    Name="Mac OS®"
+    Comment=""
+    EvaluatedDefinition="Mac OS®">Mac OS®</Variable>
+  <Variable
+    Name="Chrome&#xD;&#xA;OS"
+    Comment=""
+    EvaluatedDefinition="ChromeOS">ChromeOS</Variable>
+  <Variable
+    Name="Product Documentation"
+    Comment=""
+    EvaluatedDefinition="Product Documentation">Product Documentation</Variable>
+  <Variable
+    Name="HDMI"
+    Comment=""
+    EvaluatedDefinition="HDMI Port">HDMI Port</Variable>
+  <Variable
+    Name="802.3x"
+    Comment=""
+    EvaluatedDefinition="IEEE 802.3x Full Duplex and Half Duplex">IEEE 802.3x Full Duplex and Half Duplex</Variable>
+  <Variable
+    Name="USB Type-C"
+    Comment=""
+    EvaluatedDefinition="USB Type-C Port">USB Type-C Port</Variable>
+  <Variable
+    Name="USB Type-C Connector"
+    Comment=""
+    EvaluatedDefinition="USB Type-C Connector (Thunderbolt 3 compliant)">USB Type-C Connector (Thunderbolt 3 compliant)</Variable>
+  <Variable
+    Name="OHCI"
+    Comment=""
+    EvaluatedDefinition="OHCI (Open Host Controller Interface)">OHCI (Open Host Controller Interface)</Variable>
+  <Variable
+    Name="EHCI"
+    Comment=""
+    EvaluatedDefinition="EHCI (Enhanced Host Controller Interface)">EHCI (Enhanced Host Controller Interface)</Variable>
+  <Variable
+    Name="802.3"
+    Comment=""
+    EvaluatedDefinition="IEEE 802.3 Ethernet">IEEE 802.3 Ethernet</Variable>
+  <Variable
+    Name="802.3u"
+    Comment=""
+    EvaluatedDefinition="IEEE 802.3u Fast Ethernet">IEEE 802.3u Fast Ethernet</Variable>
+  <Variable
+    Name="802.3ab"
+    Comment=""
+    EvaluatedDefinition="IEEE 802.3ab Gigabit Ethernet">IEEE 802.3ab Gigabit Ethernet</Variable>
+  <Variable
+    Name="Dimensions"
+    Comment=""
+    EvaluatedDefinition="103 x 31 x 11 mm (4.06 x 1.22 x 0.43 in)">103 x 31 x 11 mm (4.06 x 1.22 x 0.43 in)</Variable>
+  <Variable
+    Name="Cable Length"
+    Comment=""
+    EvaluatedDefinition="Cable length: 17 cm (6.69 in)">Cable length: 17 cm (6.69 in)</Variable>
+  <Variable
+    Name="802.3az"
+    Comment=""
+    EvaluatedDefinition="IEEE 802.3az Wake-On-LAN Support">IEEE 802.3az Wake-On-LAN Support</Variable>
+  <Variable
+    Name="USB Specification Version 3.0"
+    Comment=""
+    EvaluatedDefinition="USB Specification Version 3.0">USB Specification Version 3.0</Variable>
+  <Variable
+    Name="USB Specification Version 2.0"
+    Comment=""
+    EvaluatedDefinition="USB Specification Version 2.0">USB Specification Version 2.0</Variable>
+  <Variable
+    Name="USB Specification Version 1.1"
+    Comment=""
+    EvaluatedDefinition="USB Specification Version 1.1">USB Specification Version 1.1</Variable>
+  <Variable
+    Name="HDMI 1.4"
+    Comment=""
+    EvaluatedDefinition="HDMI 1.4">HDMI 1.4</Variable>
+  <Variable
+    Name="HDCP 2.2"
+    Comment=""
+    EvaluatedDefinition="HDCP 2.2">HDCP 2.2</Variable>
+  <Variable
+    Name="DisplayPort Alternate Mode"
+    Comment=""
+    EvaluatedDefinition="DisplayPort Alternate Mode">DisplayPort Alternate Mode</Variable>
+  <Variable
+    Name="Weight"
+    Comment=""
+    EvaluatedDefinition="49.0 g (1.73 oz)">49.0 g (1.73 oz)</Variable>
+  <Variable
+    Name="Temperature Operating"
+    Comment=""
+    EvaluatedDefinition="Operating: 0 to 70 °C (32 to 158 °F)">Operating: 0 to 70 °C (32 to 158 °F)</Variable>
+  <Variable
+    Name="Input: Bus-powered"
+    Comment=""
+    EvaluatedDefinition="Input: Bus-powered">Input: Bus-powered</Variable>
+  <Variable
+    Name="Consumption"
+    Comment=""
+    EvaluatedDefinition="Consumption: 120 mA, 5 V DC">Consumption: 120 mA, 5 V DC</Variable>
+  <Variable
+    Name="Temperature Storage"
+    Comment=""
+    EvaluatedDefinition="Storage: -25 to 85 °C (-13 to 185 °F)">Storage: -25 to 85 °C (-13 to 185 °F)</Variable>
+  <Variable
+    Name="Humidity Operating"
+    Comment=""
+    EvaluatedDefinition="Operating: 5% to 80% RH, noncondensing">Operating: 5% to 80% RH, noncondensing</Variable>
+  <Variable
+    Name="Humidity Storage"
+    Comment=""
+    EvaluatedDefinition="Storage: 5% to 80% RH, noncondensing">Storage: 5% to 80% RH, noncondensing</Variable>
+</CatapultVariableSet>

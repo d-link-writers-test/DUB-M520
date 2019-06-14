@@ -1,0 +1,168 @@
+/*<meta />*/
+
+body
+{
+	font-family: 'Myriad Pro Light';
+	font-weight: normal;
+}
+
+h1
+{
+	font-size: 24.0pt;
+	font-weight: normal;
+	text-transform: uppercase;
+	font-family: 'Myriad Pro';
+}
+
+h2
+{
+	font-size: 18.0pt;
+	font-family: 'Myriad Pro Light';
+	font-weight: normal;
+	color: #ffffff;
+}
+
+h3
+{
+	font-size: 14.0pt;
+	font-family: 'Myriad Pro Light';
+	font-weight: normal;
+}
+
+h4
+{
+	font-weight: normal;
+	text-transform: uppercase;
+	font-size: 14pt;
+	font-family: 'Myriad Pro';
+	color: #5ca8d8;
+}
+
+h5
+{
+	font-family: 'Myriad Pro Light';
+	font-weight: normal;
+	font-size: 12pt;
+	color: #333333;
+}
+
+h6
+{
+	font-family: 'Myriad Pro Light';
+	font-weight: normal;
+	font-size: 10pt;
+	color: #333333;
+}
+
+p
+{
+	font-size: 12.0pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-family: 'Myriad Pro Light';
+	font-weight: normal;
+}
+
+ol,
+ul
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+img
+{
+	border: none;
+	font-family: 'Myriad Pro Light';
+	font-weight: normal;
+}
+
+a.Popup
+{
+	font-family: 'Myriad Pro Light';
+	font-weight: normal;
+}
+
+MadCap|expandingHead
+{
+	font-style: italic;
+	cursor: hand;
+	text-decoration: none;
+	color: #006600;
+	font-family: 'Myriad Pro Light';
+	font-weight: normal;
+}
+
+MadCap|expandingBody
+{
+	color: #777777;
+	font-style: italic;
+	font-family: 'Myriad Pro Light';
+	font-weight: normal;
+}
+
+MadCap|dropDownHotspot
+{
+	cursor: hand;
+	font-style: italic;
+	text-decoration: none;
+	color: #006600;
+	font-family: 'Myriad Pro Light';
+	font-weight: normal;
+}
+
+td.ValueProps
+{
+	color: #333333;
+	text-align: center;
+	font-family: 'Myriad Pro Light';
+	font-weight: normal;
+}
+
+ul
+{
+	font-family: 'Myriad Pro Light';
+	font-weight: normal;
+}
+
+ol
+{
+	font-family: 'Myriad Pro Light';
+	font-weight: normal;
+	margin-left: 5px;
+	list-style-type: decimal;
+	font-size: 10pt;
+	color: #333333;
+}
+
+td.SpecsHeaders
+{
+	font-family: 'Myriad Pro';
+	color: #5ca8d8;
+	font-size: 12pt;
+	text-transform: none;
+	border-bottom: solid 0.5px #333333;
+	padding: -1px -1px -5px;
+}
+
+li
+{
+	font-size: 10pt;
+	color: #333333;
+	margin-left: 0px;
+	margin: 0px;
+	padding-left: -12px;
+	padding-right: 0px;
+}
+
+span.ContentHeaders
+{
+	font-size: 16pt;
+	text-transform: uppercase;
+}
+
+tr.Module
+{
+	height: auto;
+}
+
